@@ -1,6 +1,6 @@
 $currentVersion = "8.16.1"
 $oldVersion = "8.11.4"
-$serverFolder = "\\<shared-folder>\Applications\CND\Elastic\elastic-agent-$currentVersion-windows-x86_64\
+$serverFolder = "\\shared\location\of\agent\Elastic\elastic-agent-$currentVersion-windows-x86_64\
 $softwareInstaller = "elastic-agent.exe"
 $localTempFolder = "C:\Windows\Temp"
 $installed = "C:\Program Files\Elastic\Agent\data\elastic-agent-$currentVersion-*"
